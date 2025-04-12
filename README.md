@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&text=Welcome&reversal=false&section=header&textBg=false&fontAlign=50&fontColor=fefefe&animation=fadeIn&rotate=0&fontSize=20" alt="Hi There" title="Hi There"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&reversal=true&section=header&textBg=false&fontAlign=50&fontColor=fefefe&animation=fadeIn&rotate=0&fontSize=20" alt="Hi There" title="Hi There"/>
 </p>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -15,11 +15,15 @@
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <!-- <img width="400" src="https://streak-stats.demolab.com?user=Quanato607&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
     <!-- self-host in Vercel -->
-    <img width="400" src="https://github-readme-streak-stats-Quanato607.vercel.app?user=Quanato607&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
 </p>
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Quanato607&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+</p>
+
+<p align="center">
+    <!-- https://github.com/kyechan99/capsule-render -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&reversal=true&section=footer&textBg=false&fontAlign=50&fontColor=fefefe&animation=fadeIn&rotate=0&fontSize=20" alt="Hi There" title="Hi There"/>
 </p>
 <!--
 **Quanato607/Quanato607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
