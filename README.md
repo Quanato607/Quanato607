@@ -1,21 +1,18 @@
-## Hi there 👋
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&reversal=true&section=header&textBg=false&fontAlign=50&fontColor=fefefe&animation=fadeIn&rotate=0&fontSize=20" alt="Hi There" title="Hi There"/>
 </p>
+  
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;欢迎来到我的 GitHub 主页！" alt="Hello World" title="Hello World"/>
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1378F7&center=true&width=435&lines=Welcome+to+Quanato's+Github.;Try+to+be+better." alt="Hello World" title="Hello World"/>
 </p>
 
-<p align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Quanato607&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
-    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <!-- <img width="400" src="https://streak-stats.demolab.com?user=Quanato607&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
-    <!-- self-host in Vercel -->
-</p>
+  <div align="center">
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Quanato607&show_icons=true&theme=transparent" alt="GitHub Stats" />
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quanato607&layout=compact&theme=transparent" alt="Top Languages" />
+  </div>
+  
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Quanato607&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
