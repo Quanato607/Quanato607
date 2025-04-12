@@ -1,5 +1,12 @@
 ## Hi there 👋
-
+<p align="center">
+    <!-- https://github.com/kyechan99/capsule-render -->
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&text=Welcome&reversal=false&section=header&textBg=false&fontAlign=50&fontColor=fefefe&animation=fadeIn&rotate=0&fontSize=20" alt="Hi There" title="Hi There"/>
+</p>
+<p align="center">
+    <!-- https://github.com/DenverCoder1/readme-typing-svg -->
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;欢迎来到我的 GitHub 主页！" alt="Hello World" title="Hello World"/>
+</p>
 <!--
 **Quanato607/Quanato607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
